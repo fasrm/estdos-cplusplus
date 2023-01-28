@@ -1,2 +1,2 @@
-# estdos-cplusplus
+# estudos-cplusplus
 Estudos de C++
